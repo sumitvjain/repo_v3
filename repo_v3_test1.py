@@ -10,4 +10,5 @@ for add file click on plus symbol [staging area]
 then type comment [progress of the file]
 then need to push file.
 now file on same branch on remote.
+after file create and push it on remote then main branch will seek.
 """
